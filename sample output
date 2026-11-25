@@ -1,0 +1,43 @@
+===== PYTHON TOOLKIT =====
+1. Number Guessing Game
+2. Word Frequency Counter
+3. Quit
+
+Enter your choice: 1
+
+Guess a number between 1 and 100!
+
+Enter your guess: 30
+Too low! Try again.
+
+Enter your guess: 70
+Too high! Try again.
+
+Enter your guess: 55
+Correct! You won!
+
+Your score: 80
+Best score: 80
+
+Play again? (yes/no): no
+
+Enter your choice: 2
+
+Enter file name: sample.txt
+
+--- Word Frequency ---
+Total words: 22
+Unique words: 15
+
+Top 10 Most Common Words:
+-------------------------
+python          3
+is              3
+programming     2
+a               1
+popular         1
+language        1
+easy            1
+to              1
+learn           1
+and             1
